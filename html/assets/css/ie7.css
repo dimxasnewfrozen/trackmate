@@ -1,0 +1,27 @@
+
+
+
+div.footer ul.subnav li {
+	font-size: 11px;
+}
+
+
+
+div.footer div.select div.selector ul#selections {
+	left: -20px;
+
+}
+
+
+
+div.description a.standout {
+
+    width: 90px;
+}
+
+
+
+div.description a.standout span {
+	float: left;
+	width: 65px;
+}
